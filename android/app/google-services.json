@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335816876200",
+    "project_id": "naan-project-df29b",
+    "storage_bucket": "naan-project-df29b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335816876200:android:a8f989b9a9dfa9ed32a29d",
+        "android_client_info": {
+          "package_name": "com.naan.diane.naan_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335816876200-7rrag5kk3md904ul82eom6ijk5iegie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rH8YeIlnU9kg4M_gMdP_0IXqwQ1SEjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335816876200-7rrag5kk3md904ul82eom6ijk5iegie4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
